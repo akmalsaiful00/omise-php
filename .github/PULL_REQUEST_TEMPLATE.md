@@ -42,6 +42,6 @@ Specify where and how you tested this and what further testing it might need.
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
 
-#### Additional Notesd
+#### Additional Notes
 
-Any further information that you would like to add.j
+Any further information that you would like to add.
